@@ -1,6 +1,6 @@
 # UCR-Monash
 Monash UCR suite implementation showcasing EAPrunedDTW.
-This page support our paper **Early Abandoning of PrunedDTW and its application to similarity search**
+This page support our paper **Early Abandoning PrunedDTW and its application to similarity search**
 available on arxiv https://arxiv.org/abs/2010.05371 (submitted to SDM2021).
 
 We developed EAPruneDTW, a version of PrunedDTW suited to early abandon.
